@@ -1,0 +1,5 @@
+org\pdfutils\controller\MainAppController.class
+org\pdfutils\controller\MergeAppController.class
+org\pdfutils\controller\SplitAppController.class
+org\pdfutils\Main.class
+module-info.class
